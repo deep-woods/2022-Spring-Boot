@@ -1,0 +1,36 @@
+[
+  {
+    "empName": "Forrest",
+    "empAge": 33,
+    "address": [
+      {
+        "city": "Seoul",
+        "addressType": "Permanent"
+      },
+      {
+        "city": "Lyon",
+        "addressType": "Current"
+      }
+    ]
+  },
+  {
+    "empName": "Norman",
+    "empAge": 35,
+    "address": [
+      {
+        "city": "Burmingham",
+        "addressType": "Permanent"
+      }
+    ]
+  },
+  {
+    "empName": "Svetlana",
+    "empAge": 52,
+    "address": [
+      {
+        "city": "London",
+        "addressType": "Permanent"
+      }
+    ]
+  }
+]

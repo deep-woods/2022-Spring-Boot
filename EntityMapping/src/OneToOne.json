@@ -1,0 +1,38 @@
+[
+  {
+    "empName": "Jody",
+    "empAge": 40,
+    "address":
+    {
+      "city": "Los Angeles",
+      "addressType": "Permanent"
+    }
+  },
+  {
+    "empName": "Forest",
+    "empAge": 33,
+    "address":
+    {
+      "city": "Bangkok",
+      "addressType": "Current"
+    }
+  },
+  {
+    "empName": "Garret",
+    "empAge": 35,
+    "address":
+    {
+      "city": "Burmingham",
+      "addressType": "Permanent"
+    }
+  },
+  {
+    "empName": "Sura",
+    "empAge": 40,
+    "address":
+    {
+      "city": "London",
+      "addressType": "Permanent"
+    }
+  }
+]
